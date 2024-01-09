@@ -1,0 +1,25 @@
+{
+  "name": "is-twp",
+  "version": "1.0.0",
+  "description": "is the string twp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveLeVesconte/package.git"
+  },
+  "keywords": [
+    "TWP"
+  ],
+  "author": "Two Way Press",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/steveLeVesconte/package/issues"
+  },
+  "homepage": "https://github.com/steveLeVesconte/package#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
